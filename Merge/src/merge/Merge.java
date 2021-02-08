@@ -9,6 +9,8 @@ public class Merge {
 		System.out.println(a+b);
 		System.out.println("mindtree.com");
 		System.out.println("welcome to possible");
+		System.out.println("mindtree.com");
+		System.out.println("welcome to possible");
 	}
 
 }
