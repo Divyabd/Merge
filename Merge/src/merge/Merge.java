@@ -7,6 +7,7 @@ public class Merge {
 		int a=2;
 		int b=3;
 		System.out.println(a+b);
+		System.out.println("mindtree.com");
 	}
 
 }
